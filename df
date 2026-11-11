@@ -1,0 +1,7 @@
+Filesystem     1M-blocks  Used Available Use% Mounted on
+overlay            32078 13217     17207  44% /
+tmpfs                 64     0        64   0% /dev
+shm                   64     0        64   0% /dev/shm
+/dev/root          29589 16279     13294  56% /vscode
+/dev/sdb1          45047  2106     40622   5% /tmp
+/dev/loop4         32078 13217     17207  44% /workspaces
